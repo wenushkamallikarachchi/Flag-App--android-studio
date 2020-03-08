@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flags</string>
+    <string name="bt4_advanced">Advanced Level</string>
+    <string name="bt3_guessflag">Guess the Flag</string>
+    <string name="bt2_guesshin">Guess-Hints</string>
+    <string name="bt1_guesscon">Guess the Country</string>
+    <string name="Txt_flags">Flag App</string>
+    <string name="bt_guessCsubmit">Submit</string>
+    <string name="txt_advanced_text">Guess Countries for All Flags:</string>
+    <string name="txt_advancedflag1">Flag1:</string>
+    <string name="bt_advanced1">submit</string>
+    <string name="txt_advancedflag2">Flag2:</string>
+    <string name="txt_advancedflag3">Flag3:</string>
+    <string name="button2">Next</string>
+    <string name="guessflagLabel">Pick Flag for the Country:</string>
+    <string name="txt_splashscreen">Welcome to Flag App</string>
+    <string name="editText">Country for First Flag</string>
+    <string name="guesshinsubmit">Submit</string>
+    <string name="txt1">Flag App</string>
+
+
+</resources>
